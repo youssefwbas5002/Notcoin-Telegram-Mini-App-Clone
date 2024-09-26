@@ -1,76 +1,174 @@
-# Notcoin Clone
+# XEmpire Bot
 
-This repository contains the initial setup and the final version of the Notcoin clone project, including the basic project structure, necessary images, and icons.
+Auto Claim for XEmpire Telegram Bot
 
-## Overview
+# Watch Video Tutorial
+[Click Here](https://youtu.be/SoN_U7EO2XQ)
 
-This project is a clone of the popular Telegram mini app, Notcoin. The repository provides two branches:
+# Features
 
-1. **Initial Setup**: Provides the foundational structure and assets needed to build the full application.
-2. **Final Version**: The completed application with all functionalities.
+- [x] Auto Tap
+- [x] Auto Level Upgrade
+- [x] Auto Play
+- [x] Auto Upgrade Skills 
+- [x] Auto Daily Bonus Claim
+- [x] Multi Account Support
 
-## Getting Started
+# Register
 
-To get started with either the initial setup or the final version, follow these instructions:
+Click the following URL to register: [XEmpire Bot](http://t.me/empirebot/game?startapp=hero5496274031)
 
-### Cloning the Repository
+# How to Use
+- [Windows](#windows)
+- [Mac](#Mac)
+- [Linux](#linux)
+- [Termux](#termux)
 
-1. **Clone the Repository**:
+## Windows
 
-    ```bash
-    git clone https://github.com/nikandr-surkov/Notcoin-Telegram-Mini-App-Clone.git
-    cd Notcoin-Telegram-Mini-App-Clone
-    ```
+1. Ensure you have Node.js and Git installed.
 
-### Initial Setup
+   - Node.js: [https://nodejs.org](https://nodejs.org)
+   - Git: [https://git-scm.com/](https://git-scm.com/)
 
-2. **Switch to the `initial-setup` Branch**:
+2. Clone this repository
+   ```shell
+   git clone https://github.com/BlackDragonHacker/XEmpire.git
+   ```
 
-    ```bash
-    git checkout initial-setup
-    ```
+3. Navigate to the XEmpire directory
+   ```shell
+   cd XEmpire
+   ```
 
-3. **Install Dependencies**:
+4. Install the required libraries
+   ```shell
+   npm install
+   ```
 
-    ```bash
-    npm install
-    ```
+5. Edit `data.txt`, input your auth token in the `data.txt` file.
 
-4. **Run the Development Server**:
+6. Run the main program
+   ```shell
+   node XEmpire.js
+   ```
 
-    ```bash
-    npm run dev
-    ```
+## Mac
 
-5. **Open Your Browser**:
+1. Ensure you have Homebrew installed.
 
-    Navigate to localhost to see the initial setup.
+   - If you don’t have Homebrew, install it by running:
+     ```shell
+     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+     ```
 
-### Final Version
+2. Install Node.js and Git using Homebrew:
 
-2. **Switch to the `final-version` Branch**:
+   - Install Node.js:
+     ```shell
+     brew install node
+     ```
+   - Install Git:
+     ```shell
+     brew install git
+     ```
 
-    ```bash
-    git checkout final-version
-    ```
+3. Clone this repository:
+   ```shell
+   git clone https://github.com/BlackDragonHacker/XEmpire.git
+   ```
 
-3. **Install Dependencies**:
+4. Navigate to the XEmpire directory:
+   ```shell
+   cd XEmpire
+   ```
 
-    ```bash
-    npm install
-    ```
+5. Install the required libraries:
+   ```shell
+   npm install
+   ```
 
-4. **Run the Development Server**:
+6. Edit `data.txt` and input your auth token in the `data.txt` file.
 
-    ```bash
-    npm run dev
-    ```
+7. Run the main program:
+   ```shell
+   node XEmpire.js
+   ```
 
-5. **Open Your Browser**:
+## Linux
 
-    Navigate to localhost to see the final version of the application.
+1. Ensure you have Node.js and Git installed.
 
-## Contact
+   - Node.js: 
+     ```shell
+     sudo apt install nodejs npm
+     ```
+   - Git:
+     ```shell
+     sudo apt install git
+     ```
 
-For any inquiries, please contact me in Telegram: [Nikandr Surkov](https://t.me/nikandr_s).
+2. Clone this repository
+   ```shell
+   git clone https://github.com/BlackDragonHacker/XEmpire.git
+   ```
 
+3. Navigate to the XEmpire directory
+   ```shell
+   cd XEmpire
+   ```
+
+4. Install the required libraries
+   ```shell
+   npm install
+   ```
+
+5. Edit `data.txt`, input your auth token in the `data.txt` file.
+
+6. Run the main program
+   ```shell
+   node XEmpire.js
+   ```
+
+## Termux
+
+1. Ensure Termux has Node.js and Git installed.
+
+   - Node.js:
+     ```shell
+     pkg install nodejs
+     ```
+   - Git:
+     ```shell
+     pkg install git
+     ```
+
+2. Clone this repository
+   ```shell
+   git clone https://github.com/BlackDragonHacker/XEmpire.git
+   ```
+
+3. Navigate to the XEmpire directory
+   ```shell
+   cd XEmpire
+   ```
+
+4. Install the required libraries
+   ```shell
+   npm install
+   ```
+
+5. Edit `data.txt`, input your auth token in the `data.txt` file.
+
+6. Run the main program
+   ```shell
+   node XEmpire.js
+   ```
+
+# How to get auth token
+
+[Watch Video](https://youtu.be/JY0ER5FqHEc)
+
+**🚫 Create a session at your own risk.  This is very dangerous for your account.  Your account may be banned 🚫**
+
+# Thank you
